@@ -1,0 +1,22 @@
+#
+# generated on 2014/06/24 11:50:55
+#
+# --table-start--
+dataClass=dev.android.ormlite.dao.Account
+tableName=account
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=name
+columnName=accountName
+# --field-end--
+# --field-start--
+fieldName=password
+columnName=password
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
